@@ -219,7 +219,7 @@ header .social-icon a:hover {
   .newsletter-area {
     padding-top: 150px;
     margin-bottom: 50px;
-  }
+  }col-lg-8
 }
 
 @media (min-width: 575px) and (max-width: 767px) {
@@ -329,7 +329,7 @@ h5 {
 }
 
 h1 {
-  font-size: 94px;
+  font-size: 85px;
   line-height: 102px;
   font-weight: 700;
   max-width: 820px;
@@ -382,4 +382,3 @@ img {
 body {
   position: relative;
 }
-/*# sourceMappingURL=main.css.map */
